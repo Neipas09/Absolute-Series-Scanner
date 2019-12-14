@@ -1,1 +1,1 @@
-(New-Object System.Net.WebClient).DownloadFile("https://raw.githubusercontent.com/ZeroQI/Absolute-Series-Scanner/master/Scanners/Series/Absolute%20Series%20Scanner.py","Absolute Series Scanner.py")
+(New-Object System.Net.WebClient).DownloadFile("https://github.com/ZeroQI/Absolute-Series-Scanner/blob/master/Scanners/Series/Absolute%20Series%20Scanner.py","Absolute Series Scanner.py")
